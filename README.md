@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently diving deep into the world of **data analysis**, with a growing specialization in **machine learning** and **artificial intelligence**. I love making sense of numbers, patterns, and possibilities.
+ I’m currently diving deep into the world of **data analysis**, with a growing specialization in **machine learning** and **artificial intelligence**. I love making sense of numbers, patterns, and possibilities.
 
 🔍 Whether it's building smart systems or decoding messy datasets, I thrive on creating meaningful insights that drive action.
 
@@ -14,9 +14,9 @@
 ### 🧠 Tools & Tech I Use
 
 - Python, Pandas, NumPy, Scikit-learn  
-- SQL, Excel, Tableau, Power BI  
+- SQL, Excel
 - Jupyter, VS Code  
-- Git & GitHub (obviously 😉)  
+- Git & GitHub 
 - Some HTML/CSS/React on the side
 
 ---
@@ -25,11 +25,7 @@
 
 - [LinkedIn](linkedin.com/in/manavi-sarkar-8bb4b9289) *(Add your link here)*  
 
----
 
-> “Code what you love, analyze what matters, lead where you stand.” – Manavi (probably)
-
-Thanks for stopping by! ⭐  
 
 <!---
 Manavi1427/Manavi1427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
