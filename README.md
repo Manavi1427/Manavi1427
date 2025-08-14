@@ -23,7 +23,7 @@
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](linkedin.com/in/manavi-sarkar-8bb4b9289) *(Add your link here)*  
+- [LinkedIn](linkedin.com/in/manavi-sarkar-8bb4b9289) 
 
 
 
