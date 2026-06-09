@@ -1,25 +1,28 @@
-### Hi there, I'm Manavi 👋  
-**Aspiring Data Analyst | ML & AI Enthusiast | Occasional Leader of Awesome Things**
+# Hey, I'm Manavi.
+
+I enjoy working at the intersection of data, technology, and problem-solving.
+
+Most of my time is spent exploring datasets, building analytical workflows, creating dashboards, and experimenting with machine learning models. I'm particularly interested in how data can be transformed into decisions, stories, and practical solutions.
+
+### What I work with
+
+- Python
+- SQL
+- Power BI
+- Pandas & NumPy
+- Machine Learning/Deep Learning
+- Data Visualization
+- MERN stack
+- C++ programming
+- Git & GitHub
+
+### Currently Learning
+
+Deep Learning, advanced analytics, and the endless art of asking better questions before looking for better answers.
 
 ---
 
- I’m currently diving deep into the world of **data analysis**, with a growing specialization in **machine learning** and **artificial intelligence**. I love making sense of numbers, patterns, and possibilities.
-
-🔍 Whether it's building smart systems or decoding messy datasets, I thrive on creating meaningful insights that drive action.
-
-🚀 On the side, I also take on **leadership roles**—because guiding teams and building something bigger than myself is just as thrilling as a clean dataset.
-
----
-
-### 🧠 Tools & Tech I Use
-
-- Python, Pandas, NumPy, Scikit-learn  
-- SQL, Excel
-- Jupyter, VS Code  
-- Git & GitHub 
-- Some HTML/CSS/React on the side
-
----
+> I like systems that make sense, data that tells a story, and code that survives first contact with reality.
 
 ### 📫 Let’s Connect
 
