@@ -18,11 +18,10 @@ Most of my time is spent exploring datasets, building analytical workflows, crea
 
 ### Currently Learning
 
-Deep Learning, advanced analytics, and the endless art of asking better questions before looking for better answers.
+Deep Learning, advanced analytics and production ready systems 
 
 ---
 
-> I like systems that make sense, data that tells a story, and code that survives first contact with reality.
 
 ### 📫 Let’s Connect
 
